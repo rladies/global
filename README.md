@@ -8,3 +8,10 @@ R-Ladies Global Strategic, Governance and Financial doc
   + [Logo](https://github.com/rladies/starter-kit/tree/master/logo)
   + [Templates](https://github.com/rladies/starter-kit/tree/master/templates)
   
+
+##Global Presentations
+**International Women Day - R-Ladies Global**    
+
+  [(Shareable Published Link)](https://docs.google.com/presentation/d/1P4ue7sYt9eaeZZdfylcYCNn_aEG2p5rm-Qp10711-ZM/pub?start=true&loop=true&delayms=2000)
+  
+[(Not for sharing - Editable Google Slides Link)](https://docs.google.com/presentation/d/1P4ue7sYt9eaeZZdfylcYCNn_aEG2p5rm-Qp10711-ZM/edit?usp=sharing)
