@@ -1,4 +1,5 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
+
 # R-Ladies Global
 R-Ladies Global Strategic, Governance and Financial doc
 
@@ -9,7 +10,7 @@ R-Ladies Global Strategic, Governance and Financial doc
   + [Templates](https://github.com/rladies/starter-kit/tree/master/templates)
   
 
-##Global Presentations
+## Global Presentations
 **International Women Day - R-Ladies Global**    
 
   [(Shareable Published Link)](https://docs.google.com/presentation/d/1P4ue7sYt9eaeZZdfylcYCNn_aEG2p5rm-Qp10711-ZM/pub?start=true&loop=true&delayms=2000)
